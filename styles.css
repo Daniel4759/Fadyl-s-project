@@ -29,9 +29,7 @@ li {
     margin-bottom: 40px;
 }
 
-/* Imágenes */ figure { text-align: center; }
 
-figcaption { font-style: italic; color: #555; }
 
 /* Encabezado */ header { background: linear-gradient(to right, #ff9800, #ff5722); padding: 20px; text-align: center; color: white; font-size: 1.8rem; position: relative; width: 100%; }
 
